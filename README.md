@@ -129,7 +129,7 @@ Now that we have this table, we can figure out the criteria we need to use to de
 ## Young driver's performance between 2021 - 2024 :
 <br>
 Interpretation:
-A driver who consistently finishes in the top 5–10, not just once in a while, is likely to keep improving — and ensures your brand gets seen regularly. This can be seen by the number of total points they score.
+A driver who consistently finishes in the top 5–10, not just once in a while, ensures your brand gets seen regularly. This can be seen by the number of total points they score.
 <br><br>
 
 The SQL Query to extract performance information from **young_drivers_result** table :<br>
@@ -137,10 +137,10 @@ The SQL Query to extract performance information from **young_drivers_result** t
 <br><br>
 
 The CSV file :<br>
-[table - young_drivers_performance.zip](https://github.com/user-attachments/files/23143934/table.-.young_drivers_performance.zip)
+[table - young_drivers_performance.zip](https://github.com/user-attachments/files/23143941/table.-.young_drivers_performance.zip)
 <br><br>
 
-<img width="976" height="271" alt="tbl_young_drivers_performance" src="https://github.com/user-attachments/assets/3c984f01-c10f-49d3-9a0a-6b3e62ff3ad2" />
+<img width="976" height="271" alt="tbl_young_drivers_performance" src="https://github.com/user-attachments/assets/be270149-7619-45d9-aabf-0707d64e57da" />
 <br><br>
 
 **Total Points**       
@@ -153,15 +153,35 @@ The CSV file :<br>
 &nbsp;&nbsp;&nbsp;&nbsp;If a driver is not achieving fastest lap, he is still ranked. This is his average rank. Lower number is better.
 <br><br>
 
-Based on this result alone, Oscar Piastri appears to be the most promising young racer. By the end of 2024, he was 23 years old, and his total score was significantly higher than that of the second-place driver, Yuki Tsunoda. Piastri achieved three fastest laps across four seasons, and his overall ranking surpassed the rest — making him the clear standout.
-<br>
+<img width="1190" height="602" alt="chart02 - young_drivers_performance" src="https://github.com/user-attachments/assets/4d2ea1d3-c279-4918-8361-b9e6d8ced5e6" />
+<br><br>
 
-However, this result alone doesn’t reveal how a driver’s performance has changed over time. To understand that, we need to dig deeper — does the driver’s performance improve, decline, or level off over the seasons? We would not want to sponsor Oscar Piastri if his performance actually went down.
+Tableau File :<br>
+[twb - Young_Drivers_Performance.zip](https://github.com/user-attachments/files/23144289/twb.-.Young_Drivers_Performance.zip)
+<br><br>
+
+Based on these results, Oscar Piastri appears to be the most promising young racer. By the end of 2024, he was 23 years old, and his total score was significantly higher than that of the second-place driver, Yuki Tsunoda. Piastri achieved three fastest laps across four seasons, and his overall ranking surpassed the rest — making him the clear standout. However, this result alone doesn’t reveal how a driver’s performance has changed over time. To understand that, we need to dig deeper — does the driver’s performance improve, decline, or level off over the seasons? We would not want to sponsor Oscar Piastri if his performance actually went down.
 <br><br>
 
 The SQL Query to extract annual performance information from **young_drivers_result** table :<br>
 [sql - young_drivers_overtheseasons.zip](https://github.com/user-attachments/files/23143839/sql.-.young_drivers_overtheseasons.zip)
 <br><br>
+
+The CSV file :
+[table - young_drivers_overheseasons.zip](https://github.com/user-attachments/files/23144393/table.-.young_drivers_overheseasons.zip)
+<br><br>
+
+<img width="969" height="474" alt="tbl_young_drivers_overtheseasons" src="https://github.com/user-attachments/assets/9782f7e8-4c56-49f7-b188-63b734f40a51" />
+<br><br>
+
+<img width="1387" height="789" alt="chart03 - young_drivers_overtheseasons" src="https://github.com/user-attachments/assets/3a51a761-45ea-418e-9d32-5aa7c4d7c8ed" />
+
+Based on the charts, Yuki Tsunoda appears to be the most experienced driver in the group. He has been racing since 2021, giving him four years of experience by the end of 2024. His average ranking of 11.6 places him fourth among the drivers over the past four seasons. However, his performance trend seems to have plateaued — his total points have remained largely flat year over year. Although his cumulative points from 2021 to 2024 trail just behind Oscar Piastri, the lack of growth suggests he may have already reached his peak performance. Therefore, he may not be an ideal choice as our brand ambassador.
+
+Oliver Bearman consistently appears among the top three drivers in these charts. His average ranking places him second overall, putting him ahead of Yuki Tsunoda. However, by the end of 2024, he has only one year of experience — this is evident in the second chart, where a single data point in 2024 indicates that he began racing that year. Although his performance in the fastest lap rankings looks promising, one season of data isn’t enough to assess his long-term potential. For now, it would be premature to consider him as a brand ambassador.
+
+Oscar Piastri has two years of experience by the end of 2024. He started his rookie season with an impressive 82 points and soared to 265 points in his second year. While two years of data may not be enough to fully predict whether he will become a future star, the evidence we have is compelling. His total points are significantly higher than Yuki Tsunoda’s, despite Tsunoda having twice as much experience. This performance gap alone makes Piastri the strongest candidate for our future brand ambassador.
+
 
 
 
