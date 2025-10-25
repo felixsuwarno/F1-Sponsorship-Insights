@@ -175,6 +175,7 @@ The CSV file :
 <br><br>
 
 <img width="1387" height="789" alt="chart03 - young_drivers_overtheseasons" src="https://github.com/user-attachments/assets/3a51a761-45ea-418e-9d32-5aa7c4d7c8ed" />
+<br><br>
 
 Based on the charts, Yuki Tsunoda appears to be the most experienced driver in the group. He has been racing since 2021, giving him four years of experience by the end of 2024. His average ranking of 11.6 places him fourth among the drivers over the past four seasons. However, his performance trend seems to have plateaued — his total points have remained largely flat year over year. Although his cumulative points from 2021 to 2024 trail just behind Oscar Piastri, the lack of growth suggests he may have already reached his peak performance. Therefore, he may not be an ideal choice as our brand ambassador.
 
