@@ -88,14 +88,46 @@ Identify young drivers who are rapidly improving, consistently scoring higher, a
 - In "dob" column, a few rows of data is ##########. I converted them to ''. Also done manually in excel before I brought them to Big Query.
 
 Next, we are going to use the "drivers" table to create another table out of it for future reference. We call this new table "young_drivers", and we only include drivers who by the end of 2024 season is 25 years of age at the maximum.
+<br><br>
 
 The SQL Query to process **"drivers"** table and make **"young_drivers"** table :
-
+<br>
 [sql - young drivers.zip](https://github.com/user-attachments/files/23136790/sql.-.young.drivers.zip)
+<br><br>
 
 Here is the result :
-
+<br>
 <img width="835" height="266" alt="query_result_02 - drivers under 25" src="https://github.com/user-attachments/assets/e2ec70bc-ab04-4613-ba9b-d708449cef75" />
+
+There are only 7 drivers who by the end of 2024 season is 25 years of age at the maximum. 
+<br><br>
+
+For the following process, we need to join these four tables:
+
+<img width="800" height="512" alt="tables2" src="https://github.com/user-attachments/assets/dffcda1d-766f-447b-bc8d-3be774ee7187" />
+<br><br>
+
+The SQL Query to process the 4 tables :
+<br>
+[sql - four tables.zip](https://github.com/user-attachments/files/23136935/sql.-.four.tables.zip)
+<br><br>
+
+The resulting table, **"young_drivers"** table ( replacing the previous table ) :
+<br>
+<img width="142" height="321" alt="tbl_young_drivers_results" src="https://github.com/user-attachments/assets/60a1b8b4-95ca-42bc-aaa9-8297f4bba4fe" />
+<br><br>
+Now that we have this table, we can figure out the criteria we need to use to determine which young drivers are the most promising ones by answering these questions :
+- Do they have performance consistency in total?
+- Can we see their performance improvements over time?
+<br><br>
+
+## Young driver's performance consistency :
+<br><br>
+
+Interpretation:
+A driver who consistently finishes in the top 5–10, not just once in a while, is likely to keep improving — and ensures your brand gets seen regularly. This can be seen by the number of total points they score.
+
+
 
 
 
