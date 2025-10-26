@@ -1,5 +1,9 @@
 # F1-Sponsorship-Insights - Identifying Top Teams and Rising Drivers (2021–2024)
-A data-driven exploration of Formula 1 performance between 2021–2024 — uncovering which teams deliver the strongest brand exposure and which young drivers show championship-level potential.
+This project is made for a luxury brand who wants to advertise through Formula 1 and find the best team or driver to sponsor. Using race data from 2021–2024, the analysis looks at total points, average rank, and fastest laps to measure which teams bring the most exposure and value for sponsors.
+
+The results show that Red Bull Racing gives the highest visibility, leading by +762 points over Mercedes and winning across multiple seasons. Mercedes and Ferrari are also strong choices for brands that value heritage, precision, and global recognition. For smaller budgets, Oscar Piastri stands out as a fast-growing young driver who can connect with a younger audience.
+
+In short, this report helps a luxury brand choose where to invest in F1 — finding the best balance between prestige, visibility, and growth potential.
 
 **Data Cleaning Notes :**
 The available data has NULLS across the board prior to 2021.
