@@ -7,7 +7,7 @@ This project is made for a luxury brand who wants to advertise through Formula 1
 
 The results show that Red Bull Racing gives the highest visibility, leading by +762 points over Mercedes and winning across multiple seasons. Mercedes and Ferrari are also strong choices for brands that value heritage, precision, and global recognition. For smaller budgets, Oscar Piastri stands out as a fast-growing young driver who can connect with a younger audience.
 
-In short, this report helps a luxury brand choose where to invest in F1 — finding the best balance between prestige, visibility, and growth potential.
+In short, this report helps a luxury brand choose where and how to invest in F1 — finding the best balance between prestige, visibility, and growth potential.
 
 **Data Cleaning Notes :**
 The available data has NULLS across the board prior to 2021.
@@ -75,8 +75,11 @@ The SQL code to find the top 3 scorer between year 2021 - 2024:
 <br><br>
 
 <img width="450" height="570" alt="chart - top3" src="https://github.com/user-attachments/assets/292efacb-417e-4ad5-98c0-956bd817703c" />
+<br><br>
 
-Between 2021 and 2024, Red Bull clearly dominated the Formula 1 field, earning 2,711 total points, far ahead of Mercedes (1,949) and Ferrari (1,794). The large margin highlights Red Bull’s consistent top finishes and superior performance across seasons. Mercedes and Ferrari remained competitive but were unable to match Red Bull’s pace or reliability over the four-year span.
+During the data exploration phase, total team points were identified as the single most relevant metric for sponsorship decisions. In Formula 1, cumulative points directly reflect consistent podium finishes and global visibility—key drivers of brand exposure and prestige. Teams that score the highest are featured more frequently in broadcasts, press coverage, and highlight reels, making them the most valuable partners for luxury brand sponsorships. Once the highest-scoring team between 2021 and 2024 is confirmed, further analysis of lower-impact variables (such as circuit conditions, DNFs, or qualifying ranks) adds minimal business value. To maintain focus and efficiency, the exploration prioritizes this top-level metric as the clearest indicator of sponsorship ROI and marketing reach.
+
+The data shows that between 2021 and 2024, Red Bull clearly dominated the Formula 1 field, earning 2,711 total points, far ahead of Mercedes (1,949) and Ferrari (1,794). The large margin highlights Red Bull’s consistent top finishes and superior performance across seasons. Mercedes and Ferrari remained competitive but were unable to match Red Bull’s pace or reliability over the four-year span.
 
 ## Conclusion : 
 If the budget is high, sponsor the Red Bull team for maximum brand exposure and performance across all key metrics.
