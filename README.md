@@ -1,6 +1,8 @@
 # F1-Sponsorship-Insights - Identifying Top Teams and Rising Drivers (2021–2024)
 ( written on October 25 2025 )
 
+**Executive Summary :**
+
 This project is made for a luxury brand who wants to advertise through Formula 1 and find the best team or driver to sponsor. Using race data from 2021–2024, the analysis looks at total points, average rank, and fastest laps to measure which teams bring the most exposure and value for sponsors.
 
 The results show that Red Bull Racing gives the highest visibility, leading by +762 points over Mercedes and winning across multiple seasons. Mercedes and Ferrari are also strong choices for brands that value heritage, precision, and global recognition. For smaller budgets, Oscar Piastri stands out as a fast-growing young driver who can connect with a younger audience.
@@ -187,14 +189,40 @@ Tableau File :<br>
 [twb - young_drivers_overtheseasons.zip](https://github.com/user-attachments/files/23145074/twb.-.young_drivers_overtheseasons.zip)
 <br><br>
 
+## Conclusion : 
+
 Based on the charts, Yuki Tsunoda appears to be the most experienced driver in the group. He has been racing since 2021, giving him four years of experience by the end of 2024. His average ranking of 11.6 places him fourth among the drivers over the past four seasons. However, his performance trend seems to have plateaued — his total points have remained largely flat year over year. Although his cumulative points from 2021 to 2024 trail just behind Oscar Piastri, the lack of growth suggests he may have already reached his peak performance. Therefore, he may not be an ideal choice as our brand ambassador.
 
 Oliver Bearman consistently appears among the top three drivers in these charts. His average ranking places him second overall, putting him ahead of Yuki Tsunoda. However, by the end of 2024, he has only one year of experience — this is evident in the second chart, where a single data point in 2024 indicates that he began racing that year. Although his performance in the fastest lap rankings looks promising, one season of data isn’t enough to assess his long-term potential. For now, it would be premature to consider him as a brand ambassador.
 
-Oscar Piastri has two years of experience by the end of 2024. He started his rookie season with an impressive 82 points and soared to 265 points in his second year. While two years of data may not be enough to fully predict whether he will become a future star, the evidence we have is compelling. His total points are significantly higher than Yuki Tsunoda’s, despite Tsunoda having twice as much experience. This performance gap alone makes Piastri the strongest candidate for our future brand ambassador.
+Oscar Piastri has two years of experience by the end of 2024. He started his rookie season with an impressive 82 points and soared to 265 points in his second year. While two years of data may not be enough to fully predict whether he will become a future star, the evidence we have is compelling. His total points are significantly higher than Yuki Tsunoda’s, despite Tsunoda having twice as much experience. **This performance gap alone makes Piastri the strongest candidate for our future brand ambassador.**
+<br><br>
+
+## Business Recommendation : 
+
+After analyzing performance data from 2021–2024, two clear sponsorship paths emerge. Each path serves a different strategic objective — immediate prestige vs. long-term brand equity :
+
+**High-budget / Powerful Luxury Brand focus with immediate impact :** 
+Red Bull Racing — unmatched dominance, guaranteed global visibility, and strong alignment with high-performance, innovation-driven luxury values.
+
+Recommended Action:
+
+- Secure co-branding or secondary sponsorship rights with Red Bull Racing for the next 2-3 seasons.
+- Leverage the team’s dominance to associate your luxury brand with excellence, precision, and performance.
+- Integrate sponsorship assets into digital campaigns (race-week drops, limited-edition merchandise, or hospitality partnerships).
+<br><br>
+
+**Lower Budget / Long Term Growth-focused :**  
+Oscar Piastri — a rising star who offers long-term brand association potential, lower entry cost, and connection with a younger, digitally engaged audience.
+
+Recommended Action:
+
+- Engage Piastri with a multi-year personal endorsement or co-branded campaign (e.g., “The Next Generation of Precision”).
+- Begin partnership before peak fame to capture cost efficiency and brand loyalty early.
+- Use data-driven storytelling — highlight his trajectory and your brand’s shared pursuit of excellence.
 
 
-
+.
 
 
 
